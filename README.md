@@ -21,6 +21,9 @@ brothers, friends, other fleets. No RobCo framework required.
 See [`friends/EXAMPLE-2026-10-02-raul-lfm25.md`](friends/EXAMPLE-2026-10-02-raul-lfm25.md)
 for a filled-in post (historical reference — re-test on your hardware).
 
+**Public findings digest (updated 2026-10-04):**  
+[`FLEET-FINDINGS-SUMMARY.md`](FLEET-FINDINGS-SUMMARY.md) — speed vs reasoning, quant-core, hardware lessons.
+
 ## Layout
 
 | Path | What |
@@ -29,6 +32,7 @@ for a filled-in post (historical reference — re-test on your hardware).
 | `kits/` | How to run the three portable tests |
 | `tests/` | Machine-checked reasoning suite (quant-core) |
 | `Visual Tests/` | Stock images for vision prompts |
+| `FLEET-FINDINGS-SUMMARY.md` | Public digest of fleet findings |
 
 ## Ground rules
 
